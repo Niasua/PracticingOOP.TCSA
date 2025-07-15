@@ -3,7 +3,7 @@ using TCSA.OOP.LibraryManagementSystem.Models;
 
 namespace TCSA.OOP.LibraryManagementSystem.Controllers;
 
-internal class MagazineController : IBaseController
+internal class MagazinesController : IBaseController
 {
 
     public void AddItem()
