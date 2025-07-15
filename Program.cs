@@ -1,4 +1,5 @@
 ﻿using Spectre.Console;
 using TCSA.OOP.LibraryManagementSystem;
 
-UserInterface.MainMenu();
+UserInterface userInterface = new();
+userInterface.MainMenu();
