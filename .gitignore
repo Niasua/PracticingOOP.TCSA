@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
