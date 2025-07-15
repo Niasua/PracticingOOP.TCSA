@@ -2,7 +2,7 @@
 
 namespace TCSA.OOP.LibraryManagementSystem;
 
-internal class MockDatabase
+internal static class MockDatabase
 {
     internal static List<LibraryItem> LibraryItems = new()
     {
