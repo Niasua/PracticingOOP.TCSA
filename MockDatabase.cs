@@ -4,7 +4,7 @@ namespace TCSA.OOP.LibraryManagementSystem;
 
 internal class MockDatabase
 {
-    internal static List<LibraryItem> Books = new()
+    internal static List<LibraryItem> LibraryItems = new()
     {
         new Book(1, "The Great Gatsby", "F. Scott Fitzgerald", "Fiction", "A1", 218),
         new Book(2, "To Kill a Mockingbird", "Harper Lee", "Fiction", "A2", 324),
