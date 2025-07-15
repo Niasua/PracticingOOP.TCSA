@@ -1,8 +1,7 @@
 ﻿using Spectre.Console;
 using System.Reflection.Metadata;
-using TCSA.OOP.LibraryManagementSystem.Models;
 
-namespace TCSA.OOP.LibraryManagementSystem;
+namespace TCSA.OOP.LibraryManagementSystem.Models;
 
 internal class Book : LibraryItem
 {
